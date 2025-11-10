@@ -5,6 +5,11 @@
   "main": "index.js",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/melodyxpot/react-raffle-hook.git"
+  },
+  "homepage": "https://github.com/melodyxpot/react-raffle-hook#readme",
   "scripts": {
     "build": "tsup",
     "dev": "tsup --watch"
