@@ -1,0 +1,32 @@
+{
+  "name": "react-raffle-hook",
+  "version": "1.0.0",
+  "description": "React hook for creating raffle systems easily.",
+  "main": "index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch"
+  },
+  "author": "melodyxpot",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "tsup": "^8.5.0",
+    "typescript": "^5.9.3"
+  },
+  "keywords": [
+    "react",
+    "raffle",
+    "hook",
+    "random",
+    "nextjs"
+  ]
+}
