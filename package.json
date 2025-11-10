@@ -1,6 +1,6 @@
 {
   "name": "react-raffle-hook",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React hook for creating raffle systems easily.",
   "main": "index.js",
   "module": "dist/index.js",
